@@ -1,0 +1,5 @@
+{
+  "name": "Coach Gemini - Biomechanics Expert",
+  "description": "An AI-powered biomechanics coach that analyzes your exercise form from video uploads, identifying risks and providing actionable cues for improvement.",
+  "requestFramePermissions": []
+}
